@@ -1,5 +1,5 @@
 # Drawing_App_Kotlin
-My first App using Kotlin, _**Kotlin**_ is Amazing
+Drawing App using Kotlin, _**Kotlin**_ is Amazing
 
 ## Objective 
   * To learn about custom view and And View class in ~~Kotlin~~ (Java).
