@@ -8,7 +8,6 @@ My first App using Kotlin, _**Kotlin**_ is Amazing
   * Learn custom dialog and progress bars.
 
 # *Screenshots*
-<img src="screenshots/Screenshot_2014-01-02-08-03-55.png" width=300 />
-<img src="screenshots/Screenshot_2014-01-02-08-12-13.png" width=300 />
+<img src="screenshots/Screenshot_2014-01-02-08-03-55.png" width=300 /> <img src="screenshots/Screenshot_2014-01-02-08-12-13.png" width=300 />
 <img src="screenshots/Screenshot_2020-01-02-07-18-29.png" width=300 />
 <img src="screenshots/Screenshot_2020-01-02-07-20-10.png" width=300 />
